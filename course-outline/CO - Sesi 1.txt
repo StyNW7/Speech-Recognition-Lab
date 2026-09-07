@@ -1,0 +1,15 @@
+Stanley Nathanael Wijaya, NW25-1
+
+Speech Recognition - Lab
+
+COURSE OUTLINE - SESI 1
+Introduction to Python
+======================================================
+
+[] Python Introduction
+[] Numpy Introduction
+
+
+Notes:
+1. Ajarkan basic-basic python seperti: input, output, variable, operator, selection, repetition, function, built-in data structure (list, set, dictionary, tuple), dan slicing data.
+2. Ajarkan basic method dari numpy seperti: array, shape, ndim, zeros, ones, empty, random, vstack, hstack, dll.
