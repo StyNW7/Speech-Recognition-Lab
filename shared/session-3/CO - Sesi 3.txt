@@ -1,0 +1,14 @@
+Stanley Nathanael Wijaya, NW25-1
+
+Speech Recognition - Lab
+
+COURSE OUTLINE - SESI 3
+MFCC Part 1
+======================================================
+
+[] Introduction to MFCC (Mel-Frequency Cepstral Coefficients)
+[] Create MFCC using Audio Library
+
+
+Notes:
+1. Ajarkan teori, konsep dasar, dan tujuan dari MFCC.
