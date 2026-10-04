@@ -1,0 +1,14 @@
+Stanley Nathanael Wijaya, NW25-1
+
+Speech Recognition - Lab
+
+COURSE OUTLINE - SESI 5
+Wav2vec
+======================================================
+
+[] Introduction to wav2vec
+[] Create wav2vec using Torchaudio
+
+
+Notes:
+1. Ajarkan cara menggunakan model pretrained wav2vec dari library Torchaudio.
