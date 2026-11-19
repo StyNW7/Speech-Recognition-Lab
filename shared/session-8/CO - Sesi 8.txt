@@ -1,0 +1,19 @@
+Stanley Nathanael Wijaya, NW25-1
+
+Speech Recognition - Lab
+
+COURSE OUTLINE - SESI 8
+HMM/GMM Part 2
+======================================================
+
+[] Create HMM GMM model for Speech Recognition
+
+Notes:
+1. Lanjutkan penjelasan dan code dari sesi sebelumnya
+
+Sekarang tolong bantu saya untuk mempersiapkan materi Speech Recognition sesuai dengan course outline pada course-outline/CO - Sesi 8.txt tersebut. Nah tolong buatkan full code untuk sesi 8 ini yang mudah untuk diikuti, singkat, jelas, gampang dimengerti, dan tepat serta pastikan bisa dijalankan dengan benar. Lalu buatkan juga dokumentasi.md yang berisi penjelasan mengenai code dan materi dari sesi 8 tersebut. Buatkan code filenya dan jelaskan pada code/
+
+Untuk code di sesi 7 itu sebenarnya ada di code/Sesi7 untuk melihat referensi sejauh mana sesi sebelumnya sudah mengajarkan materi tersebut, karena di sesi 8 ini sebenarnya melanjutkan apa yang terakhir kali dibahas Sesi 7 tapi masih belum selesai jadi dilanjutkan agar benar-benar selesai HMM GMM Model nya. Tolong buatkan code materinya dan dokumentasi penjelasan materi codenya.
+
+
+Sekarang saya sedang mau upgrade lagi web app Gama ini, saya ingin upgrade agar fitur-fiturnya tepat dan bahasa, isi, layout, dan semuanya benar-benar bagus. Saya juga sudah ada melakukan expert review dan ada beberapa insight improvements dari beliau yang semuanya itu terdokumentasikan di References/Expert-Insight-2.pdf, jadi untuk semua poin dan penjelasan revisi yang ada disana, tolong bantu saya untuk upgrade, improve, danr evisi web app Gama ini lagi agar menjadi lebih baik sesuai dengan yang ada pada Expert-Insight-2.pdf tersebut, pastikan semua poin revisinya benar-benar di revisi dengan benar dan tepat. Upgrade web app Gama agar menjadi lebih bagus lagi. Jadi perbedaan update yang sebelumnya dan sekarang adalah ada 2 saja yaitu untuk memperbaiki frontend ui/ux yang di tampilan mobile. Karena memang benar sekarang di tampilan mobile untuk dunia Gama itu semua icons dan sebagainya itu besar-besar, tolong dibuat UI/UX tampilan dunia Gama di mobile phone dibuat seperti yang tertulis di References/Expert-Insight-2.pdf, jadi ada beberapa icon yang dihapus, di pindah ke setting, dikecilin, bisa diminize, dan sebagainya. Pastikan maps nya itu benar-benar terlihat dengan bersih dan jelas tanpa ada halangan icon-icon menu gitu. Tolong semua nya bisa dikecilin tapi tetep bagus dan bisa diminimize juga atau dipindah ke setting. Tolong update dan improve layout dan tampilan dunia Gama agar lebih clean serta responsive untuk semuanya.
